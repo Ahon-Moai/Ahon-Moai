@@ -1,9 +1,17 @@
 
-PREV: **BrightStack**
-**ClearForge**
-**SwiftNode**
-**CoreCircuit**
-**ZenithLogic**
+
+*Current*
+- **Founder** of Venta Studios
+- **CTO** at Horizon Gaming (#3 FiveM Server)
+- **Volunteer Contributor** — Spicenity Codebase
+
+*PREV*: 
+
+-**BrightStacker**
+-**Loomen**
+-**Tick&Locks**
+-**CoreCircuit**
+-**ZenithLogic**
 
 
 
